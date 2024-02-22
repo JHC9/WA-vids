@@ -10,7 +10,7 @@
                 <li>-https://www.youtube.com/watch?v=ysB39oaJ3Do</li>
           </ol></li>
   
-<li>Sorting Algorithms: <ol>Quick Sort - <li>https://www.youtube.com/watch?v=qq0iO6F5kJQ</li>
+<li>Sorting Algorithms: <ol><li>Quick Sort - https://www.youtube.com/watch?v=qq0iO6F5kJQ</li>
                             Merge Sort - <li>https://www.youtube.com/watch?v=wHHcLkMUw5g</li>
 
 </ul>

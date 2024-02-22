@@ -13,5 +13,4 @@
 <li>Sorting Algorithms: <ol>Quick Sort - <li>https://www.youtube.com/watch?v=qq0iO6F5kJQ</li>
                             Merge Sort - <li>https://www.youtube.com/watch?v=wHHcLkMUw5g</li>
 
-          </ol></li>
 </ul>

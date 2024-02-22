@@ -8,9 +8,10 @@
                 <li>-https://www.youtube.com/watch?v=QQGmI2OvCZQ</li>
                 <li>-https://www.youtube.com/watch?v=-jizIqb1Qho</li>
                 <li>-https://www.youtube.com/watch?v=ysB39oaJ3Do</li>
-          
+          </ol></li>
+  
+<li>Sorting Algorithms: <ol>Quick Sort - <li>https://www.youtube.com/watch?v=qq0iO6F5kJQ</li>
+                            Merge Sort - <li>https://www.youtube.com/watch?v=wHHcLkMUw5g</li>
 
-
-</ol></li>
-
+                        </ol></li>
 </ul>

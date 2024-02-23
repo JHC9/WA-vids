@@ -16,4 +16,11 @@
 <li>Python Lists   -https://www.youtube.com/watch?v=ZsuqIlwGhQo</li>
 <li>Python Dictionaries - https://www.youtube.com/watch?v=srho9-sLWmU</li>
 <li>List & Dictionary code link: https://colab.research.google.com/drive/1M4IqS71aqVcKeaWIgve_fOEuXIKE_Yku?usp=sharing</li>
+
+<li>Check Digit Validation<ol>
+  Part <li>https://youtu.be/Q1s-_J-lDjI<li>
+  Part <li>https://youtu.be/qNvc5NgBBJw</li>
+  Part <li>https://youtu.be/-HrxPlVwpng</li>
+  Part <li>https://youtu.be/h9i6I9ZUEVE</li>
+</ol></li>
 </ul>

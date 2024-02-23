@@ -14,5 +14,5 @@
                             <li>Merge Sort - https://www.youtube.com/watch?v=wHHcLkMUw5g</li>
 </ol>
 <li>Python Lists   -https://www.youtube.com/watch?v=ZsuqIlwGhQo</li>
-
+<li>Python Dictionaries - https://www.youtube.com/watch?v=srho9-sLWmU</li>
 </ul>

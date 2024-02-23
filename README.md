@@ -15,4 +15,5 @@
 </ol>
 <li>Python Lists   -https://www.youtube.com/watch?v=ZsuqIlwGhQo</li>
 <li>Python Dictionaries - https://www.youtube.com/watch?v=srho9-sLWmU</li>
+<li>List & Dictionary code link: https://colab.research.google.com/drive/1M4IqS71aqVcKeaWIgve_fOEuXIKE_Yku?usp=sharing</li>
 </ul>

@@ -12,5 +12,6 @@
   
 <li>Sorting Algorithms: <ol><li>Quick Sort - https://www.youtube.com/watch?v=qq0iO6F5kJQ</li>
                             <li>Merge Sort - https://www.youtube.com/watch?v=wHHcLkMUw5g</li>
+<li>Python Lists   -https://www.youtube.com/watch?v=ZsuqIlwGhQo</li>
 
 </ul>
